@@ -1,4 +1,4 @@
-Labbsalen.se Contribute
+Labbsalen.se Page Contribute
 ===
 ## Information
 - Title:  `Labbsalen`
